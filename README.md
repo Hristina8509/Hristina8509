@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hristina Kamenopolska
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning JS fundamentals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
